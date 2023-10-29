@@ -1,0 +1,10 @@
+.navbar-nav li:hover .nav-dropdown-items{
+    display: block;
+}
+.nav-dropdown-items{
+    list-style-type: none;
+    display: none;
+}
+.nav-item > li:hover > a{
+    background-color: aquamarine;
+}
